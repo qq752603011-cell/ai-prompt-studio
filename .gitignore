@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+
+*.pdf
+*.docx
+
+__pycache__/
